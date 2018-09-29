@@ -1,3 +1,9 @@
+sudo apt-get install libffi-dev
+git clone https://github.com/lbaitemple/foggycam
+cd ~/foggycam/src
+sudo pip3 install -r requirements.txt
+
+
 # 📹 foggycam
 
 
